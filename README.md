@@ -21,7 +21,9 @@ I spent 20+ years in banking as a branch manager (teams of up to 15, portfolios 
 
 `R` · `Python` · `Go` · `SQL` · `PostgreSQL` · `Google Cloud` · `AWS` · `LLMs / MCP / RAG`
 
-## Selected repositories
+## Selected public repositories
+
+> Most of my production work — data platforms, ETL pipelines and AI tooling built for clients and for Outlier — lives in private repositories. The public repos below are smaller utilities and experiments. Happy to walk through private work on a call.
 
 - **[rag](https://github.com/jmtruffa/rag)** — retrieval-augmented generation experiments
 - **[bcra](https://github.com/jmtruffa/bcra)** — R client for the Argentine Central Bank (BCRA) API
