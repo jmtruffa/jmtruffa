@@ -13,7 +13,7 @@ I spent 20+ years in banking as a branch manager (teams of up to 15, portfolios 
 | Area | Examples |
 | --- | --- |
 | LLMs & agents | MCP servers that let LLMs query financial databases; LLM extraction of documents (PDF → structured data) |
-| Forecasting | Econometric and AI-based forecasting, including Argentine monthly CPI with the TimesFM foundation model |
+| Forecasting | Econometric and AI-based forecasting, including Argentine monthly CPI with the Chronos foundation model |
 | Data infrastructure | APIs and ETL pipelines for Argentine official and market data |
 | Market analytics | FX, fixed income and market data tooling in R |
 
